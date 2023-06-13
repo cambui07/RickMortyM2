@@ -1,0 +1,10 @@
+.ContenedorNav{
+    background-color: aqua;
+    justify-content: flex-end;
+    display: flex;
+    height: 40px;
+    align-items: center;
+}
+.DivSearchbar{
+    margin-right: 20px;
+}

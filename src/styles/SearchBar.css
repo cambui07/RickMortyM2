@@ -1,0 +1,10 @@
+.InputSearchbar{
+    padding: 3px;
+    margin-right: 5px;
+    border-radius: 5px;
+}
+.buttonSearchbar{
+    padding: 3px;
+    border-radius: 5px;
+    background-color: antiquewhite;
+}
